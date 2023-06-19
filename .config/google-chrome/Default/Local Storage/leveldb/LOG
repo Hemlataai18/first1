@@ -1,0 +1,29 @@
+2023/06/15-11:13:53.507 3 Creating DB /home/fittonia/.config/google-chrome/Default/Local Storage/leveldb since it was missing.
+2023/06/15-11:13:53.562 3 Reusing MANIFEST /home/fittonia/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2023/06/15-11:31:47.829 4 Level-0 table #5: started
+2023/06/15-11:31:47.838 4 Level-0 table #5: 59557 bytes OK
+2023/06/15-11:31:47.855 4 Delete type=0 #3
+2023/06/15-11:33:51.589 4 Level-0 table #7: started
+2023/06/15-11:33:51.600 4 Level-0 table #7: 45336 bytes OK
+2023/06/15-11:33:51.612 4 Delete type=0 #4
+2023/06/15-11:34:33.980 4 Level-0 table #9: started
+2023/06/15-11:34:33.997 4 Level-0 table #9: 43239 bytes OK
+2023/06/15-11:34:34.009 4 Delete type=0 #6
+2023/06/15-11:37:11.556 4 Level-0 table #11: started
+2023/06/15-11:37:11.567 4 Level-0 table #11: 61248 bytes OK
+2023/06/15-11:37:11.579 4 Delete type=0 #8
+2023/06/15-11:38:06.556 4 Level-0 table #13: started
+2023/06/15-11:38:06.568 4 Level-0 table #13: 70449 bytes OK
+2023/06/15-11:38:06.580 4 Delete type=0 #10
+2023/06/15-11:40:11.732 4 Level-0 table #15: started
+2023/06/15-11:40:11.744 4 Level-0 table #15: 57260 bytes OK
+2023/06/15-11:40:11.756 4 Delete type=0 #12
+2023/06/15-11:40:11.757 4 Compacting 4@0 + 1@1 files
+2023/06/15-11:40:11.774 4 Generated table #16@0: 117 keys, 141462 bytes
+2023/06/15-11:40:11.775 4 Compacted 4@0 + 1@1 files => 141462 bytes
+2023/06/15-11:40:11.785 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/15-11:40:11.787 4 Delete type=2 #13
+2023/06/15-11:40:11.788 4 Delete type=2 #11
+2023/06/15-11:40:11.788 4 Delete type=2 #15
+2023/06/15-11:40:11.789 4 Delete type=2 #9
+2023/06/15-11:40:11.789 4 Delete type=2 #7

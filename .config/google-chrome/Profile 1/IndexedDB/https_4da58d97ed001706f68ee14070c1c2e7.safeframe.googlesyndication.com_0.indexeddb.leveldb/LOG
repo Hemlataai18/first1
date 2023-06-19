@@ -1,0 +1,6 @@
+2023/06/16-17:52:29.167 f54 Creating DB /home/fittonia/.config/google-chrome/Profile 1/IndexedDB/https_4da58d97ed001706f68ee14070c1c2e7.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2023/06/16-17:52:29.187 f54 Reusing MANIFEST /home/fittonia/.config/google-chrome/Profile 1/IndexedDB/https_4da58d97ed001706f68ee14070c1c2e7.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/16-17:52:33.153 f55 Level-0 table #5: started
+2023/06/16-17:52:33.160 f55 Level-0 table #5: 480 bytes OK
+2023/06/16-17:52:33.173 f55 Delete type=0 #3
+2023/06/16-17:52:33.173 f55 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

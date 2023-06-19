@@ -1,0 +1,12 @@
+2023/06/16-22:50:50.190 1f06 Reusing MANIFEST /home/fittonia/.config/google-chrome/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/16-22:50:50.191 1f06 Recovering log #4
+2023/06/16-22:50:50.234 1f06 Reusing old log /home/fittonia/.config/google-chrome/Profile 1/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2023/06/16-22:51:44.930 1f06 Level-0 table #8: started
+2023/06/16-22:51:44.990 1f06 Level-0 table #8: 2340202 bytes OK
+2023/06/16-22:51:45.000 1f06 Delete type=0 #4
+2023/06/16-22:51:53.236 1f06 Compacting 1@1 + 1@2 files
+2023/06/16-22:51:53.255 1f06 Generated table #9@1: 177 keys, 367688 bytes
+2023/06/16-22:51:53.255 1f06 Compacted 1@1 + 1@2 files => 367688 bytes
+2023/06/16-22:51:53.263 1f06 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/06/16-22:51:53.264 1f06 Delete type=2 #5
+2023/06/16-22:51:53.264 1f06 Delete type=2 #8

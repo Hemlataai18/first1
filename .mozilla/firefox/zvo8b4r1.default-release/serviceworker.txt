@@ -1,0 +1,13 @@
+9
+
+https://beebom.com/
+https://beebom.com/wp.serviceworker
+true
+{3685a2c8-6f51-4838-9731-0292874f8a68}
+0
+1686807771852905
+1686807771854674
+1686807770405689
+1
+true
+#

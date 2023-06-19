@@ -1,0 +1,3 @@
+{"sent_at":"2023-06-18T08:43:43.643Z","sdk":{"name":"sentry.javascript.electron","version":"3.0.8"}}
+{"type":"session"}
+{"sid":"a0761f78876648399466af3e36b0a186","init":true,"started":"2023-06-18T07:11:30.443Z","timestamp":"2023-06-18T08:43:43.643Z","status":"exited","errors":0,"did":"97de516f-760d-41fb-9c04-a9dbe42b36b1","duration":5533.199999809265,"attrs":{"release":"Slack@4.32.127","environment":"production"}}

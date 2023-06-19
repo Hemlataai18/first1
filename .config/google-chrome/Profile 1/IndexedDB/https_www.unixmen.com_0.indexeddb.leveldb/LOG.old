@@ -1,0 +1,6 @@
+2023/06/16-16:34:21.681 f54 Creating DB /home/fittonia/.config/google-chrome/Profile 1/IndexedDB/https_www.unixmen.com_0.indexeddb.leveldb since it was missing.
+2023/06/16-16:34:21.702 f54 Reusing MANIFEST /home/fittonia/.config/google-chrome/Profile 1/IndexedDB/https_www.unixmen.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/16-16:34:24.383 f55 Level-0 table #5: started
+2023/06/16-16:34:24.391 f55 Level-0 table #5: 381 bytes OK
+2023/06/16-16:34:24.401 f55 Delete type=0 #3
+2023/06/16-16:34:24.401 f55 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

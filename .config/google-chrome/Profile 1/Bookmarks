@@ -1,0 +1,48 @@
+{
+   "checksum": "9fa2be0b231917ac35cf9b5ed1568fd5",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13331287782137858",
+            "date_last_used": "13331404174535681",
+            "guid": "5eb3a92b-44a2-4a69-a89f-ae2390286815",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "45 Essential Linux Commands (with Examples) - Tutorial Works",
+            "type": "url",
+            "url": "https://www.tutorialworks.com/linux-commands/"
+         } ],
+         "date_added": "13331281460560451",
+         "date_last_used": "0",
+         "date_modified": "13331287782137858",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13331281460560454",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13331281460560456",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "Cu8BCswBCIiBAhLFARI8CAISOAoGCgJibRABEDMaEgkA10oRQf4FACEA10oRQf4FADIYChYIAhGWGy8hQf4FABgAIQAAAAAAAAAAIACSAX0KNAoOY2hyb21lX3N5bmNfYm0SBTUxIWJtGhIJMTQvIUH+BQARMTQvIUH+BQApprAxIUH+BQAKRQoWYW5ub3RhdGlvbl9jaHJvbWVfc3luYxIFNTEhYmQaEgkAbAUcQf4FABEAbAUcQf4FACn7MC8hQf4FADCA2JXgkcj/AroBAggBEgAgASoYRUM5TEJNZkdnRitLRlNrdStaYTZTZz09SAMSwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp6S3JwU3R6aC9VWmJoZk5JMGRXV1ZZQ1hhdDhRQS9NdjhaMTl3d2VSWHczSkN0amZJMktrRzFKVEZiaGU1Wk9TSlUxZ2JzeHFJckJ2eTkzVEJCKzNaMzBSQlZPQT09GAAgACgAMPvRxf/JxP8COABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp5bTFHbkFJMTBPQ3Y4RkhNQ2U0T0FIUzhyeVpNU1M2cnVzMnFXZDJmYkczc3BtOFpSeTRzOEx3Vkk5Tjl0UEZDOUR3QkJIGAAgACgAMPvRxf/JxP8COABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAS6wEIBRLmAQocd2d3Uno5UW5ibHRydG1scVZZN2o0b1o5RXJRPRJmWjpBRHF0QVp4aUZLTzhvS1V0Ti9WWHptNnlxRGxVTEpObG5NbTJnNGNDMWs3dWxvQlpMcXJBTjcrVURLeFkzNFdkNHdUUWl0S2U3WTNxSUdwTUxrUnlMcFd2d3dtS3VuM3M3Zz09GAAgAigCMP2qk8LgxP8COPyV1++LMUCHltfvizFKHEtMOG5VMWtDQ0d5a1RCdVJ2ZnN2cXBsMGl6MD1aHiIcLzRORGw5VXhmR1AvVjIybWIvNXFvT003MytvPWUx+jB6EsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaejRKOU83Y1psQU5TanhxS0Rjek44cTluSEZTNC90ZWowbmZBTVlQb1J5c2dLaCtaY202L1dqWjhoaldrdi9hWGRZZzJ4OEdFbW5DQTBWZE5IWEJ4Z2hSTzhGNkE9PRgAIAAoADD70cX/ycT/AjgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAMAE4AA==",
+   "version": 1
+}

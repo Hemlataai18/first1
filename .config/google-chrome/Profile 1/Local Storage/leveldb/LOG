@@ -1,0 +1,15 @@
+2023/06/18-21:09:07.858 3 Reusing MANIFEST /home/fittonia/.config/google-chrome/Profile 1/Local Storage/leveldb/MANIFEST-000001
+2023/06/18-21:09:07.866 3 Recovering log #114
+2023/06/18-21:09:07.901 3 Reusing old log /home/fittonia/.config/google-chrome/Profile 1/Local Storage/leveldb/000114.log 
+2023/06/18-23:01:26.693 4 Level-0 table #118: started
+2023/06/18-23:01:26.703 4 Level-0 table #118: 13854 bytes OK
+2023/06/18-23:01:26.716 4 Delete type=0 #114
+2023/06/18-23:01:26.717 4 Compacting 4@0 + 1@1 files
+2023/06/18-23:01:26.754 4 Generated table #119@0: 2320 keys, 385953 bytes
+2023/06/18-23:01:26.754 4 Compacted 4@0 + 1@1 files => 385953 bytes
+2023/06/18-23:01:26.764 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/18-23:01:26.767 4 Delete type=2 #118
+2023/06/18-23:01:26.767 4 Delete type=2 #106
+2023/06/18-23:01:26.768 4 Delete type=2 #109
+2023/06/18-23:01:26.768 4 Delete type=2 #112
+2023/06/18-23:01:26.768 4 Delete type=2 #115
