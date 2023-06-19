@@ -1,5 +1,24 @@
-2023/06/18-18:14:38.983 3 Reusing MANIFEST /home/fittonia/.config/google-chrome/Profile 1/Session Storage/MANIFEST-000001
-2023/06/18-18:14:38.984 3 Recovering log #95
-2023/06/18-18:14:38.989 3 Reusing old log /home/fittonia/.config/google-chrome/Profile 1/Session Storage/000095.log 
-2023/06/18-19:11:38.627 5 Level-0 table #99: started
-2023/06/18-19:11:38.652 5 Level-0 table #99: 15153 bytes OK
+2023/06/19-11:09:19.996 3 Reusing MANIFEST /home/fittonia/.config/google-chrome/Profile 1/Session Storage/MANIFEST-000001
+2023/06/19-11:09:19.996 3 Recovering log #98
+2023/06/19-11:09:19.997 3 Reusing old log /home/fittonia/.config/google-chrome/Profile 1/Session Storage/000098.log 
+2023/06/19-12:54:23.263 3 Level-0 table #101: started
+2023/06/19-12:54:23.279 3 Level-0 table #101: 17560 bytes OK
+2023/06/19-12:54:23.293 3 Delete type=0 #98
+2023/06/19-13:13:33.060 4 Level-0 table #103: started
+2023/06/19-13:13:33.079 4 Level-0 table #103: 14787 bytes OK
+2023/06/19-13:13:33.094 4 Delete type=0 #100
+2023/06/19-13:13:33.096 4 Compacting 4@0 + 1@1 files
+2023/06/19-13:13:33.122 4 Generated table #104@0: 3190 keys, 93515 bytes
+2023/06/19-13:13:33.122 4 Compacted 4@0 + 1@1 files => 93515 bytes
+2023/06/19-13:13:33.132 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/19-13:13:33.133 4 Delete type=2 #101
+2023/06/19-13:13:33.134 4 Delete type=2 #98
+2023/06/19-13:13:33.134 4 Delete type=2 #103
+2023/06/19-13:13:33.134 4 Delete type=2 #93
+2023/06/19-13:13:33.134 4 Delete type=2 #96
+2023/06/19-13:33:16.300 3 Level-0 table #106: started
+2023/06/19-13:33:16.309 3 Level-0 table #106: 17258 bytes OK
+2023/06/19-13:33:16.326 3 Delete type=0 #102
+2023/06/19-13:46:14.416 4 Level-0 table #108: started
+2023/06/19-13:46:14.432 4 Level-0 table #108: 18423 bytes OK
+2023/06/19-13:46:14.455 4 Delete type=0 #105

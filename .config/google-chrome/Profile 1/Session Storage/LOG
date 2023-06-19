@@ -1,8 +1,42 @@
-2023/06/18-21:09:08.324 3 Reusing MANIFEST /home/fittonia/.config/google-chrome/Profile 1/Session Storage/MANIFEST-000001
-2023/06/18-21:09:08.324 3 Recovering log #95
-2023/06/18-21:09:08.332 3 Level-0 table #98: started
-2023/06/18-21:09:08.356 3 Level-0 table #98: 15153 bytes OK
-2023/06/18-21:09:08.357 3 Recovering log #98
-2023/06/18-21:09:08.360 3 Reusing old log /home/fittonia/.config/google-chrome/Profile 1/Session Storage/000098.log 
-2023/06/18-21:09:08.389 3 Delete type=2 #99
-2023/06/18-21:09:08.389 3 Delete type=0 #95
+2023/06/19-14:36:28.514 3 Reusing MANIFEST /home/fittonia/.config/google-chrome/Profile 1/Session Storage/MANIFEST-000001
+2023/06/19-14:36:28.522 3 Recovering log #107
+2023/06/19-14:36:28.528 3 Reusing old log /home/fittonia/.config/google-chrome/Profile 1/Session Storage/000107.log 
+2023/06/19-15:05:37.777 5 Level-0 table #111: started
+2023/06/19-15:05:37.787 5 Level-0 table #111: 14933 bytes OK
+2023/06/19-15:05:37.801 5 Delete type=0 #107
+2023/06/19-15:34:40.113 5 Level-0 table #113: started
+2023/06/19-15:34:40.124 5 Level-0 table #113: 14933 bytes OK
+2023/06/19-15:34:40.136 5 Delete type=0 #110
+2023/06/19-15:34:40.138 5 Compacting 4@0 + 1@1 files
+2023/06/19-15:34:40.160 5 Generated table #114@0: 3335 keys, 95995 bytes
+2023/06/19-15:34:40.160 5 Compacted 4@0 + 1@1 files => 95995 bytes
+2023/06/19-15:34:40.170 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/19-15:34:40.173 5 Delete type=2 #108
+2023/06/19-15:34:40.173 5 Delete type=2 #111
+2023/06/19-15:34:40.174 5 Delete type=2 #106
+2023/06/19-15:34:40.174 5 Delete type=2 #113
+2023/06/19-15:34:40.174 5 Delete type=2 #104
+2023/06/19-15:58:54.656 3 Level-0 table #116: started
+2023/06/19-15:58:54.664 3 Level-0 table #116: 15217 bytes OK
+2023/06/19-15:58:54.674 3 Delete type=0 #112
+2023/06/19-16:13:54.656 5 Level-0 table #118: started
+2023/06/19-16:13:54.663 5 Level-0 table #118: 12486 bytes OK
+2023/06/19-16:13:54.673 5 Delete type=0 #115
+2023/06/19-16:29:40.112 5 Level-0 table #120: started
+2023/06/19-16:29:40.122 5 Level-0 table #120: 13071 bytes OK
+2023/06/19-16:29:40.133 5 Delete type=0 #117
+2023/06/19-16:33:54.655 3 Level-0 table #122: started
+2023/06/19-16:33:54.663 3 Level-0 table #122: 19087 bytes OK
+2023/06/19-16:33:54.675 3 Delete type=0 #119
+2023/06/19-16:33:54.676 3 Compacting 4@0 + 1@1 files
+2023/06/19-16:33:54.698 3 Generated table #123@0: 3399 keys, 101591 bytes
+2023/06/19-16:33:54.698 3 Compacted 4@0 + 1@1 files => 101591 bytes
+2023/06/19-16:33:54.707 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/06/19-16:33:54.709 3 Delete type=2 #122
+2023/06/19-16:33:54.710 3 Delete type=2 #118
+2023/06/19-16:33:54.710 3 Delete type=2 #116
+2023/06/19-16:33:54.710 3 Delete type=2 #114
+2023/06/19-16:33:54.710 3 Delete type=2 #120
+2023/06/19-16:38:40.112 3 Level-0 table #125: started
+2023/06/19-16:38:40.120 3 Level-0 table #125: 22805 bytes OK
+2023/06/19-16:38:40.130 3 Delete type=0 #121

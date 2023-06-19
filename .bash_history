@@ -203,3 +203,88 @@ sudo dmidecode -s system-version
 sudo dmidecode-s system-version
 sudo dmidecode -s system-version
 config --global user.name
+git
+sudo apt install git
+git --version
+git config 
+git config --global user.email "hemlatachouhan767"
+git config --global user.email "hemlatachouhan767@gmail.com"
+git config --global user.name "Hemlataai18"
+git status
+git init
+git status
+git add .
+git status
+mkdir myproject
+cd myroject
+cd myproject
+touch myfile.text
+cat myfile.text
+status
+git status
+git add myfile.text
+status 
+git status 
+git log
+git commit myfile.text
+git --version
+config --global user.email "hemlatachouhan767@gmail.com
+"
+config --global user.email "hemlatachouhan767@gmail.com"
+git config --global user.email "hemlatachouhan767@gmail.com"
+git config --global user.email "Hemlataai18"
+git init
+cd myproject
+git init
+git add myfile.text
+commit myfile.text
+git commit myfile.text
+git -l
+git ls -l
+cat myfile.text
+git rm --catched^myfile.text
+git rm --catched^ myfile.text
+git log
+git commit myfile.text
+git log
+git commit myfile.text
+git log 
+cat myfile.text
+git checkout -f
+git deff
+git diff
+git checkout -f
+git checkout myfile.text
+cat myfile.text
+git rmmyfile.text
+git myfile.text
+git rm  myfile.text
+git rm --catched myfile.text
+git rm --cached myfile.text
+cat myfile.text
+git rm myfile.text
+git rm --cached myfile.text
+git rm myfile.text
+cat rm myfile.text
+touch myfile.text
+cat myfile.text
+git add myfile.text
+git commit myfile.text
+git log
+git branch
+git branch feature
+git status
+git checkout feature
+git branch hemu
+ssh-keygen
+ls -lart
+git status
+git remote add origin git@github.com:Hemlataai18/first1.git
+gir remote
+git remote
+git remote -v
+git push origin master
+ssh-keygen -t ed25519 -C "your_email@example.com"
+ssh-add ~/.ssh/id_ed25519
+ssh-add ~/.ssh/id_ed
+cat ~/.ssh/id_ed25519.pub

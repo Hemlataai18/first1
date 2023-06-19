@@ -1,3 +1,7 @@
-2023/06/17-16:22:12.476 b88 Reusing MANIFEST /home/fittonia/.config/google-chrome/Profile 1/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
-2023/06/17-16:22:12.476 b88 Recovering log #3
-2023/06/17-16:22:12.478 b88 Reusing old log /home/fittonia/.config/google-chrome/Profile 1/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000003.log 
+2023/06/19-15:26:54.463 aac Reusing MANIFEST /home/fittonia/.config/google-chrome/Profile 1/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/19-15:26:54.463 aac Recovering log #3
+2023/06/19-15:26:54.465 aac Reusing old log /home/fittonia/.config/google-chrome/Profile 1/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/000003.log 
+2023/06/19-15:26:56.536 aad Level-0 table #5: started
+2023/06/19-15:26:56.544 aad Level-0 table #5: 8400 bytes OK
+2023/06/19-15:26:56.552 aad Delete type=0 #3
+2023/06/19-15:26:56.552 aad Manual compaction at level-0 from (begin) .. (end); will stop at (end)

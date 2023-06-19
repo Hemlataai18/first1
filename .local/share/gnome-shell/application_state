@@ -1,20 +1,18 @@
 <?xml version="1.0"?>
 <application-state>
   <context id="">
-    <application id="gnome-bluetooth-panel.desktop" score="0" last-seen="0"/>
+    <application id="slack_slack.desktop" score="22" last-seen="1687165593"/>
     <application id="org.gnome.eog.desktop" score="1" last-seen="1686981303"/>
-    <application id="org.gnome.Nautilus.desktop" score="78" last-seen="1686981294"/>
-    <application id="rhythmbox.desktop" score="0" last-seen="1686823176"/>
+    <application id="org.gnome.Nautilus.desktop" score="80" last-seen="1687173253"/>
     <application id="firefox.desktop" score="3621" last-seen="1686808374"/>
-    <application id="org.gnome.Terminal.desktop" score="1625" last-seen="1687095078"/>
-    <application id="software-properties-gtk.desktop" score="7" last-seen="1687061416"/>
-    <application id="slack_slack.desktop" score="22" last-seen="1687102752"/>
     <application id="libreoffice-writer.desktop" score="1" last-seen="1686782200"/>
-    <application id="gnome-control-center.desktop" score="95" last-seen="1687103015"/>
-    <application id="google-chrome.desktop" score="9057" last-seen="1687102996"/>
-    <application id="apport-gtk.desktop" score="0" last-seen="1686832943"/>
-    <application id="org.gnome.gedit.desktop" score="74" last-seen="1686910768"/>
-    <application id="gnome-wifi-panel.desktop" score="0" last-seen="0"/>
+    <application id="software-properties-gtk.desktop" score="7" last-seen="1687061416"/>
+    <application id="org.gnome.gedit.desktop" score="109" last-seen="1687173249"/>
+    <application id="org.gnome.Terminal.desktop" score="2712" last-seen="1687173175"/>
+    <application id="gnome-control-center.desktop" score="95" last-seen="1687153145"/>
+    <application id="rhythmbox.desktop" score="0" last-seen="1686823176"/>
     <application id="update-manager.desktop" score="0" last-seen="1686811387"/>
+    <application id="apport-gtk.desktop" score="0" last-seen="1686832943"/>
+    <application id="google-chrome.desktop" score="10436" last-seen="1687173101"/>
   </context>
 </application-state>

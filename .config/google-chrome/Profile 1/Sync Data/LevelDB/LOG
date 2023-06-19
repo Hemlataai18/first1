@@ -1,3 +1,6 @@
-2023/06/18-21:09:07.924 aad Reusing MANIFEST /home/fittonia/.config/google-chrome/Profile 1/Sync Data/LevelDB/MANIFEST-000001
-2023/06/18-21:09:07.932 aad Recovering log #46
-2023/06/18-21:09:07.943 aad Reusing old log /home/fittonia/.config/google-chrome/Profile 1/Sync Data/LevelDB/000046.log 
+2023/06/19-14:36:28.055 ad7 Reusing MANIFEST /home/fittonia/.config/google-chrome/Profile 1/Sync Data/LevelDB/MANIFEST-000001
+2023/06/19-14:36:28.063 ad7 Recovering log #49
+2023/06/19-14:36:28.081 ad7 Reusing old log /home/fittonia/.config/google-chrome/Profile 1/Sync Data/LevelDB/000049.log 
+2023/06/19-14:36:50.865 ab9 Level-0 table #53: started
+2023/06/19-14:36:50.885 ab9 Level-0 table #53: 196645 bytes OK
+2023/06/19-14:36:50.902 ab9 Delete type=0 #49

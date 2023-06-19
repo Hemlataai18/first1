@@ -364,3 +364,63 @@ sender: :1.43
 serial: 2751
 
 
+[5423:0619/110913.630085:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[5423:0619/110913.746252:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.login1.Manager.Inhibit: object_path= /org/freedesktop/login1: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.116" (uid=1000 pid=5423 comm="/snap/slack/79/usr/lib/slack/slack --no-sandbox --" label="snap.slack.slack (enforce)") interface="org.freedesktop.login1.Manager" member="Inhibit" error name="(unset)" requested_reply="0" destination="org.freedesktop.login1" (uid=0 pid=726 comm="/lib/systemd/systemd-logind " label="unconfined")
+[5423:0619/110913.907273:ERROR:nss_util.cc(239)] Error initializing NSS with a persistent database (sql:/home/fittonia/.pki/nssdb): NSS error code: -8174
+[5423:0619/120954.553853:WARNING:exported_object.cc(263)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.126
+path: /StatusNotifierItem
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.43
+serial: 1643
+
+
+[5423:0619/120954.619046:WARNING:exported_object.cc(263)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.126
+path: /com/canonical/dbusmenu
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.43
+serial: 1807
+
+
+[2352:0619/143621.193491:WARNING:bluez_dbus_manager.cc(247)] Floss manager not present, cannot set Floss enable/disable.
+[2352:0619/143621.314231:ERROR:object_proxy.cc(623)] Failed to call method: org.freedesktop.login1.Manager.Inhibit: object_path= /org/freedesktop/login1: org.freedesktop.DBus.Error.AccessDenied: An AppArmor policy prevents this sender from sending this message to this recipient; type="method_call", sender=":1.108" (uid=1000 pid=2352 comm="/snap/slack/79/usr/lib/slack/slack --no-sandbox --" label="snap.slack.slack (enforce)") interface="org.freedesktop.login1.Manager" member="Inhibit" error name="(unset)" requested_reply="0" destination="org.freedesktop.login1" (uid=0 pid=718 comm="/lib/systemd/systemd-logind " label="unconfined")
+[2352:0619/143621.432952:ERROR:nss_util.cc(239)] Error initializing NSS with a persistent database (sql:/home/fittonia/.pki/nssdb): NSS error code: -8174
+[2352:0619/153750.119196:WARNING:exported_object.cc(263)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.86
+path: /StatusNotifierItem
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.37
+serial: 1565
+
+
+[2352:0619/153750.193082:WARNING:exported_object.cc(263)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.86
+path: /com/canonical/dbusmenu
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.37
+serial: 1710
+
+
+[2352:0619/154336.728625:WARNING:exported_object.cc(263)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.86
+path: /StatusNotifierItem
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.37
+serial: 2534
+
+
+[2352:0619/154336.798293:WARNING:exported_object.cc(263)] Unknown method: message_type: MESSAGE_METHOD_CALL
+destination: :1.86
+path: /com/canonical/dbusmenu
+interface: org.freedesktop.DBus.Introspectable
+member: Introspect
+sender: :1.37
+serial: 2679
+
+

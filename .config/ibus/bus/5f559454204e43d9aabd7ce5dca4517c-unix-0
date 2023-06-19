@@ -3,5 +3,5 @@
 # ibus session bus with the below address.
 # If the IBUS_ADDRESS environment variable is set, it will
 # be used rather than this file.
-IBUS_ADDRESS=unix:abstract=/home/fittonia/.cache/ibus/dbus-ufU2YUxq,guid=ab37b90e631d84acdafd5e1f648fe5c0
-IBUS_DAEMON_PID=1623
+IBUS_ADDRESS=unix:abstract=/home/fittonia/.cache/ibus/dbus-ye3cgN73,guid=393e49a529fac2f92fdda5ab64901a7d
+IBUS_DAEMON_PID=1614
