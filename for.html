@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+ <html lang="en">
+  <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UM-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+     <title>form</title>
+     <script>src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js";
+</script>
+<script type="text/javascript">
+   function m2(){
+      var x = document.getElementById("user").value;
+      var y = document.getElementById("lastn").value;
+      var z = document.getElementById("pass").value;
+       document.writeln("Successful..."+"<br>"+"<br>");
+       document.writeln("your Information: "+"<br>"+"your name:- "+" "+x +"<br>");
+       document.writeln("your LastName:- "+" "+y +"<br>");
+       document.writeln("your passwrd:- "+" "+z);
+   }
+</script>
+<style>
+    body{
+     background-size: cover;
+   }
+  </style>
+  </head>
+  <body style="background-image: url('/home/fittonia/Downloads/h3.jpg');">
+
+   <script>          
+function myFunction() {                
+    var a = document.getElementById("user");
+    alert(user);
+}
+</script>
+
+    <form style="text-align: center;" onsubmit="m2()">
+    
+   <fieldset>
+      <legend><i>Form</i></legend>
+   <b>First_Name:</b><input type="text" id="user" placeholder="Enter Name"><br><br>
+   <b>Last_Name:</b><input type="text" id="lastn" placeholder="Enter Last Name"><br><br>
+   <b>password:</b><input type="password" id="pass" placeholder="Enter email"><br><br>
+   <input type="submit" id="sb" value="Submit" style="height:40px;width:90px;background-color:tomato;"> <br><br>>
+</fieldset>
+</form>
+  </body>
+ <script src="fitt71.js"> </script>
+  </html>
