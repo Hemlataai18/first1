@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+ <html lang="en">
+  <head>
+     <meta charset="utf-8">
+     <meta http-equiv="X-UM-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>form</title>
+  </head>
+  	<style>
+  	 body{
+     background-size: cover;
+  	}
+  </style>
+  </head>
+  <body style="background-image: url('/home/fittonia/Downloads/fitt.jpeg');">
+
+   <form style="text-align: center;">
+    
+   <fieldset>
+   	<legend><i>Form</i></legend>
+   <b>First_Name:</b><input type="text" placeholder="Enter Name"><br><br>
+   <b>Last_Name:</b><input type="text" placeholder="Enter Last Name"><br><br>
+   <b>Email:</b><input type="email" placeholder="Enter email"><br><br>
+   <b>phone_Number:<input type="number" ><br><br>
+   
+ <b>Gender:</b>
+          <input type="radio" id="1" name="gender" value="Other" onclick="myFunction()">Other
+    <p id="text" style="display:none">Enter:<input type="text"></p>
+
+    <input type="radio"  id="m" name="gender" value="female" onclick="myFunction()">male
+    <p id="text" style="display:none"></p>
+
+    <input type="radio" id="f" name="gender" value="male" onclick="myFunction()">female
+    <p id="text" style="display:none"></p>
+          <br><br>
+          
+   <input type="submit" id="sb" value="submit" style="height:40px;width:90px;background-color:tomato;" onclick="test()"><br><br>
+   </fieidset>
+   </legend>
+   </form>
+
+  </body>
+  <script src="fitt71.js"> </script>
+ </html>

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>javascript</title>
+<script>src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"</script>
+</head>
+<body>
+<input type="radio" value="hide" onclick="m1(1)" name="lang"> Female
+<input type="radio" value="hide" onclick="m1(2)" name="lang"> Male
+<input type="radio" value="hide" onclick="m1(3)" name="lang"> Other
+
+<br><br>
+
+<p id="id1">Enter<input type="text"></p> 
+
+
+<script >
+	function m1(val){
+	if(val==1)
+    document.getElementById('id1').style.Display='none';
+
+if(val==2)
+    document.getElementById('id1').style.Display='none';
+
+if(val==3)
+    document.getElementById('id1').style.Display='block';
+}
+</script>
+
+</body>
+</html>
