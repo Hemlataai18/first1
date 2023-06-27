@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+ <html>
+  <head>
+   <script>src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js";
+</script>
+  	<style>
+  	 body{
+     background-size: cover;
+  	}
+  </style>
+  </head>
+  <body style="background-image: url('/home/fittonia/Downloads/fitt.jpeg');">
+   <script>          
+function m1() {                
+    var a = document.getElementById("1");
+    var text = document.getElementById("text");
+
+    if (a.checked == true){
+        text.style.display = "block";
+    } else {
+        text.style.display = "none";
+    }
+}
+</script>
+<script type="text/javascript">
+   function m2(){
+      var x = document.getElementById("4").value;
+      var y = document.getElementById("5").value;
+      var z = document.getElementById("6").value;
+       document.writeln("Successful..."+"<br>"+"<br>");
+       document.writeln("your Information: "+"<br>"+"your name:- "+" "+x +"<br>");
+       document.writeln("your LastName:- "+" "+y +"<br>");
+       document.writeln("your passwrd:- "+" "+z);
+   }
+</script>
+   <form style="text-align: center;">
+    
+   <fieldset>
+   	<legend><i>Form</i></legend>
+   <b>First_Name:</b><input type="text" id="4" placeholder="Enter Name"><br><br>
+   <b>Last_Name:</b><input type="text" id="5" placeholder="Enter Last Name"><br><br>
+   <b>Email:</b><input type="email" id="6" placeholder="Enter email"><br><br>
+   <b>phone_Number:<input type="number" id="7"><br><br>
+   
+ <b>Gender:</b>
+ 
+          
+    <input type="radio" id="1" name="gender" value="Other" onclick="m1()">Other
+    <p id="text" style="display:none">Enter:<input type="text"></p>
+
+   <input type="radio"  name="gender" value="female" onclick="m1()">male
+    <p id="text" style="display:none"></p>
+
+    <input type="radio" name="gender" value="male" onclick="m1()">female
+    <p id="text" style="display:none"></p> 
+          <br><br>
+          
+   <a href="file:///home/fittonia/first1/fitt81.html"><input type="submit" value="submit" style="height:40px;width:90px;background-color:tomato;"> </a> <br><br>
+
+<a href="file:///home/fittonia/first1/fitt81.html"><input type="button" value="Submit1" style="height:40px;width:90px" >
+</a>
+
+   </fieidset>
+   </legend>
+   </form>
+
+  </body>
+ </html>
