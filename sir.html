@@ -1,0 +1,33 @@
+<DOCTYPE html!>
+<head>
+<script>src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js";
+</script>
+</head>
+<html>
+<body>
+     <script>          
+function myFunction() {                
+    var a = document.getElementById("1");
+    var text = document.getElementById("text");
+    if (a.checked == true){
+        text.style.display = "block";
+    } else {
+        text.style.display = "none";
+    }
+}
+</script>
+
+
+<form action="">
+    
+    <input type="radio" id="1" name="gender" value="Other" onclick="myFunction()">Other
+    <p id="text" style="display:none">Enter:<input type="text"></p>
+
+    <input type="radio"  name="gender" value="female" onclick="myFunction()">male
+    <p id="text" style="display:none"></p>
+
+    <input type="radio" name="gender" value="male" onclick="myFunction()">female
+    <p id="text" style="display:none"></p>
+
+</body>
+    </html>

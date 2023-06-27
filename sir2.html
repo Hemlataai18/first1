@@ -1,0 +1,35 @@
+
+<DOCTYPE html!>
+<head>
+<script>src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js";
+</script>
+</head>
+<html>
+<body>
+     <script>          
+function myFunction() {                
+    var checkBox = document.getElementById("myCheck");
+    var text = document.getElementById("text");
+    if (checkBox.checked == true){
+        text.style.display = "block";
+    } else {
+        text.style.display = "none";
+    }
+}
+</script>
+
+<label for="gender"><b>Gender</b></label>
+<form action="">
+    
+
+    <input type="radio" id="myCheck" name="gender" value="female" onclick="myFunction()">Female
+    <p id="text" style="display:none">Enter:<input type="text"></p>
+
+    <input type="radio" id="myCheck" name="gender" value="female" onclick="myFunction()">male
+    <p id="text" style="display:none">Enter:<input type="text"></p>
+
+    <input type="radio" id="myCheck" name="gender" value="male" onclick="myFunction()">Other
+    <p id="text" style="display:none">Enter:<input type="text"></p>
+
+</body>
+    </html>
