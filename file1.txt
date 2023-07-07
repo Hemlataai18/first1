@@ -1,0 +1,6 @@
+copy = Tempfile.new
+File.open(file, 'rb') do |input_stream|
+  File.open(copy, 'wb') do |output_stream|
+    IO.copy_stream(input_stream, output_stream)
+  end
+end
